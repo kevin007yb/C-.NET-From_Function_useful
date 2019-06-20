@@ -1,0 +1,3 @@
+D:\KevinLibrary\DllTest\DllTest\bin\Debug\DllTest.exe.config
+D:\KevinLibrary\DllTest\DllTest\obj\Debug\DllTest.exe
+D:\KevinLibrary\DllTest\DllTest\obj\Debug\DllTest.pdb
